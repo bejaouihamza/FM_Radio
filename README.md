@@ -9,6 +9,7 @@ and the **electronics** needed to detect and play broadcast FM audio.
 ---
 
 ## 📷 Schematic
+![FM Radio Schematic](https://github.com/bejaouihamza/FM_Radio/blob/main/Capture%20d'%C3%A9cran%202025-08-10%20013300.png)
 
 ---
 
